@@ -48,3 +48,25 @@ let juntarStrings = function (str1, str2){
 return str1 + str2;    
     }
 console.log(juntarStrings('Olá',  'Mundo!'));
+
+Part 2 //
+
+Exerc.1
+const quadrado = num => num * num;
+console.log(quadrado(4));
+
+Exerc.2
+const soma = (a, b) => a + b;
+console.log(soma(5, 3));
+
+Exerc.3
+const saudacao = () => "Olá Mundo!";
+console.log(saudacao());
+
+
+Exerc.4
+const multiplicarPorDois = num => {
+    let resultado = num * 2;
+    return resultado;
+}
+    console.log (multiplicarPorDois(9));
