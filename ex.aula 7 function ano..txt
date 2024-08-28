@@ -51,20 +51,20 @@ console.log(juntarStrings('Olá',  'Mundo!'));
 
 Part 2 //
 
-Exerc.1
+Exerc.8
 const quadrado = num => num * num;
 console.log(quadrado(4));
 
-Exerc.2
+Exerc.9
 const soma = (a, b) => a + b;
 console.log(soma(5, 3));
 
-Exerc.3
+Exerc.10
 const saudacao = () => "Olá Mundo!";
 console.log(saudacao());
 
 
-Exerc.4
+Exerc.11
 const multiplicarPorDois = num => {
     let resultado = num * 2;
     return resultado;
